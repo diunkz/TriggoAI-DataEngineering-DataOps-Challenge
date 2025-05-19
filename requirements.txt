@@ -3,3 +3,7 @@ pandas
 duckdb
 matplotlib
 seaborn
+plotly
+dash
+requests
+
