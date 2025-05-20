@@ -6,4 +6,5 @@ seaborn
 plotly
 dash
 requests
-
+scikit-learn
+numpy
